@@ -1,5 +1,5 @@
 import React from 'react'
-import LocationList from './locations/LocationList'
+import { LocationList } from './locations/LocationList.js'
 
 export const KandyKorner = () => {
     return (
